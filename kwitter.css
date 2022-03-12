@@ -1,16 +1,15 @@
-html, body
+body
 {
   height: 100%;
-  margin: 0;
-}
-body{
+  text-align:center;  
   background-image: linear-gradient(to right top, #bd93ec, #a98cec, #a866f3);
 }
 .login_div
 {
 	background: rgba(255,255,255,0.8);
   border-radius: 15px;
-  margin-left: 430;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 #login_button
 {
